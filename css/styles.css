@@ -13131,3 +13131,11 @@ footer.footer{
     margin-bottom: 80px;
   }
 }
+
+
+@media(max-width:500px) {
+  .container.projects {
+    padding-bottom: 40px;
+  }
+ 
+}
